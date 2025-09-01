@@ -46,9 +46,10 @@ Gebhardt, C.G., Roccia, B.A., Ceballos, Bossio, J.M., and Bossio, G.R., , "A fra
 ## 📂 Repository Structure
 - `DDEC.m` – Example script that assembles and simulates a circuit using DDCM.  
 - `circuit_assembly.m` – Builds circuit matrices (L, C, constraints).  
-- `KKT_Time.m` – Constructs KKT matrices for time integration.  
+- `KKT_Time.m` – Constructs KKT matrices for time integration.
+- `KKT_initialState.m` - Constructs KKT matrices for time step 0
 - `phiESOperator.m` – Feedback operator: projects trial states to closest data points.  
-- `DDCM_ADM_Electric.m` – Core solver implementing DDCM with ADM.  
+- `DDCM_ADM_Electric.m` – Core solver implementing DDCM with ADM.
 
 ---
 
