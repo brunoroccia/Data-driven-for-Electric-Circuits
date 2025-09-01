@@ -18,7 +18,7 @@ The approach replaces traditional constitutive models with **finite sets of data
 ---
 
 ## 📂 Repository Structure
-- `main.m` – Example script that assembles and simulates a circuit using DDCM.  
+- `DDEC.m` – Example script that assembles and simulates a circuit using DDCM.  
 - `circuit_assembly.m` – Builds circuit matrices (L, C, constraints).  
 - `KKT_Time.m` – Constructs KKT matrices for time integration.  
 - `phiESOperator.m` – Feedback operator: projects trial states to closest data points.  
