@@ -32,11 +32,5 @@ The approach replaces traditional constitutive models with **finite sets of data
    ```bash
    git clone https://github.com/your-username/DDCM-ElectricCircuits.git
 
-@misc{YourName2025,
-  author       = {Your Name},
-  title        = {Data-Driven Computational Mechanics (DDCM) for Electric Circuits},
-  year         = {2025},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/your-username/DDCM-ElectricCircuits}}
-}
+
 
