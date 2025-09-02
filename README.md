@@ -27,7 +27,7 @@ First version released on September 01, 2025.
 It works on Matlab 7+ <br />
 A technical description of the implementation can be found in the following paper:
 
-Gebhardt, C.G., Roccia, B.A., Ceballos, Bossio, J.M., and Bossio, G.R., , "A framework for data-driven simulation of electrical circuits based on discrete-continuous optimization," submitted to IEEE Open. 
+Gebhardt, C.G., Roccia, B.A., Bossio, J.M., and Bossio, G.R., , "A framework for data-driven simulation of electrical circuits based on discrete-continuous optimization," submitted to IEEE Open. 
 
 -------------------------------------------------------------------------------
 
